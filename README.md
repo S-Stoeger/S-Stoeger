@@ -1,8 +1,5 @@
 - 👋 Hi, I’m S-Stöger
-- 👀 I’m interested in ... Berries and Cream
-- 🌱 I’m currently learning ... the little Lad dance
-- 💞️ I’m looking to collaborate with ... the Berries and Cream guy
-- 📫 How to reach me ... just don't
+- 👀 I don't know what I'm doing (most of the times)
 
 <!---
 S-Stoeger/S-Stoeger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
