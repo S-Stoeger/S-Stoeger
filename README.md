@@ -1,5 +1,5 @@
-- 👋 Hi, I’m S-Stöger
-- 👀 I don't know what I'm doing (most of the times)
+- Hi!
+- I'm a student at HTL Leonding and my repositories all include projects that I am working on in/for school
 
 <!---
 S-Stoeger/S-Stoeger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
